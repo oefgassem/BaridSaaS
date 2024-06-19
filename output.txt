@@ -1,0 +1,591 @@
+action: ACTION
+action_group: Action
+add_icon: 'Ajouter l'icône'
+add_widget: 'Ajouter un widget personnalisé'
+align: 'Alignement'
+are_you_sure: 'Es-tu sûr?'
+associate_checbox: 'Associer à la boîte à cocher'
+associate_tag: 'Associer à la balise'
+associate_text: 'Associer au texte'
+background: Arrière-plan
+background_image: 'Image de fond'
+background_image.color: 'Couleur de l'arrière plan'
+background_image.image: Image
+background_image.position: Position
+background_image.repeat: Répéter
+background_image.size: Taille
+block: 'Bloc'
+block_container: Bloc
+block_options: 'Bloquer les options'
+blockqoute: 'Blocsquote'
+bottombar.items.exit: 'Quitter sans sauvegarder'
+bottombar.items.history: Histoire
+bottombar.items.last_save: 'Dernier arrêt: aujourd'hui'
+bottombar.items.redo: Refaire
+bottombar.items.undo: annuler
+build_mode_warning: 'Le format de modèle ne respecte pas les normes et spécifications du générateur'
+button: 'Bouton'
+button_actions: 'Options de bouton'
+button_group: 'Groupe de boutons'
+button_style: 'Style de bouton'
+button_toolbar: 'Barre d'outils'
+by_at: 'par Builderjs à SorrentoCorp'
+captcha: 'Utilisez Google Captcha pour protéger votre formulaire des robots automobiles'
+cell: Cellule
+cell.layout: Mise en page
+cell.responsive: 'Réactif sur mobile'
+cell.responsive.wording: 'Faites toutes les cellules pleine largeur lorsqu'elles sont sur mobile (ou largeur de fenêtre <= 600px).Cela peut ne pas fonctionner sur certains clients de messagerie (par exemple Old Outlook, ...)'
+cell_container: 'Conteneur de cellules'
+cell_options: 'Disposition des colonnes'
+center_logo: Logo
+change_image: 'Changer l'image'
+checkbox: 'Cocher'
+checkbox_field: 'Champ de cocher'
+checkout: Vérifier
+choose_style: 'Choisir le style'
+choose_template: 'Choisissez votre modèle'
+choose_template_success: 'Choisissez le modèle avec succès!'
+clear_success: 'Conception claire avec succès!'
+clear_while: 'Êtes-vous sûr de vouloir effacer le design?'
+common_field: Common
+confirm_apply: 'Oui, appliquez-le!'
+container: Récipient
+container_options: 'Options de conteneurs'
+content: 'Contenu'
+control.image.fix_width: Fixed
+copy_tag: 'Copiez la balise avec succès!'
+copy_url: 'Copiez URL avec succès!'
+copy_url_success: 'Copiez URL avec succès!'
+custom_url: 'URL personnalisée'
+custom_widget: 'Widget personnalisé'
+dashed: En pointillé
+date_field: 'Champ de date'
+definition_list: 'Liste de définition'
+deleted_element: supprimé
+div_container: 'Récipient Div'
+divider: 'Diviseur'
+dotted: Dotted
+drag_click: 'Faites glisser vos fichiers ici ou cliquez dans ce domaine.'
+drag_here: 'Faites glisser ici'
+drag_items_here: 'Faites glisser les éléments ici'
+dropdown_field: 'Champ déroulant'
+dropped: dropped
+duplicate: 'Élément en double réussi!'
+duplicated_element: dupliqué
+edit_html_code: 'Modifier le code HTML'
+editor.insert_tag: Mots clés
+email: E-mail
+email_field: 'Champ de courrier électronique'
+error_job: 'Job d'erreur!'
+error_save: 'Erreur lors de l'enregistrement du modèle:'
+error_upload_base64: 'Erreur lors du téléchargement Base64:'
+error_upload_file: 'Erreur lors de la téléchargement du fichier:'
+error_upload_url: 'Erreur lors de la téléchargement de l'URL:'
+export_template_confirm: 'Voulez-vous enregistrer la conception actuelle avant l'exportation?'
+field.control.autocomplete: 'Activer la saisie semi-automatique'
+field.control.captcha: 'Utilisez Google Captcha pour protéger votre formulaire des robots automobiles'
+field.control.field_id: 'ID de terrain'
+field.control.field_name: 'Nom de domaine'
+field.control.form.accept_charset: Accept-charset
+field.control.form.enctype: Cntype
+field.control.form.method: 'Méthode de soumission de formulaire'
+field.control.label: Étiquette
+field.control.show_label: 'Étiquette de spectacle'
+field.control.validation.max_length: Longueur maximale
+field.control.validation.min_length: Longueur minimale
+field.control.validation.regexp: Regexp
+field.control.validation.required: "<span> nécessite la validation d'entrée. <br> La validation par défaut est: <span class = \" text-danger \ "> \ n pas null | max: 255 </span> <span>"
+field.option.default: Défaut
+field.option.text: Texte
+field.option.value: Valeur
+field_options: Options
+field_validation: 'Validation du terrain'
+finalizing: Finalisation ...
+first_name: 'Prénom'
+font_family: 'Famille de polices'
+footer: 'Bas de page'
+form: 'Formulaire'
+form_group: 'Groupe de formulaire'
+form_options: 'Formation d'options'
+general: General
+good_job: 'Bon travail!'
+header: Entête
+heading: 'Titre'
+html: 'Html'
+icon: Icône
+image: 'Image'
+image.auto_height: Auto
+image.height: Hauteur
+image.width: Largeur
+image_grid: 'Grille d'image'
+image_header: 'En-tête d'image'
+image_link: 'Lien d'image'
+image_size: 'Taille de l'image'
+image_size.height: Hauteur
+image_size.width: Largeur
+image_url: 'URL de l'image'
+input_field: 'Champ de saisie'
+input_group: 'Groupe d'entrée'
+ip_field: 'Champ radio'
+jumbotron: Jumbotron
+last_name: 'Nom de famille'
+line_height: 'Hauteur de la ligne'
+link: 'Lien'
+link_color: 'Couleur du lien'
+list_group: 'Groupe de listes'
+list_image: 'Image de liste'
+list_images: 'Liste des images'
+loading_template: 'Modèle de chargement ...'
+margin: MARGE
+media_object: 'Objet multimédia'
+menubar.items.change_template: 'Modifier le modèle'
+menubar.items.design: Conception
+menubar.items.designs.clear: Clear
+menubar.items.designs.exit: Sortie
+menubar.items.designs.new: New
+menubar.items.designs.new_template: 'Nouveau à partir du modèle'
+menubar.items.designs.save: Sauvegarder
+menubar.items.designs.save_and_close: 'Sauvegarder et fermer'
+menubar.items.designs.upload_template: 'Modèle de téléchargement'
+menubar.items.devices.desktop: Bureau
+menubar.items.devices.mobile: Mobile
+menubar.items.devices.tablet: Tablette
+menubar.items.help: Aide
+menubar.items.lang: Égouter
+menubar.items.lang.eng: English
+menubar.items.lang.jpa: Psalmodie
+menubar.items.lang.setting: Paramètre
+menubar.items.lang.vie: Vietnames
+menubar.items.mode_design: 'Mode de conception'
+menubar.items.mode_designs.design: Conception
+menubar.items.mode_designs.source: Source
+menubar.items.preview: Aperçu
+menubar.items.previews.desktop: Bureau
+menubar.items.previews.mobile: Mobile
+menubar.items.save: Sauvegarder
+menubar.items.save_and_close: 'Sauvegarder et fermer'
+menubar.items.sync: Synchronisation
+menubar.items.syncs.dropbox: Dropbox
+menubar.items.syncs.google_driver: 'Google Drive'
+menubar.items.syncs.google_driver.title: 'Google Drive'
+menubar.items.syncs.one_driver: Onedrive
+menubar.items.syncs.setting: Paramètre
+mess_open: 'Message ouvert'
+meterial: Mesuré
+mode_design: 'Conception de mode'
+mode_source: 'Source de mode'
+more_options: 'Plus d'options'
+multiselect_field: 'Champ multiselect'
+my_widget: 'Mon widget personnalisé'
+navbar: Barre navale
+navbar.contents.content_property: 'Propriétés de contenu'
+navbar.contents.layouts: disposition
+navbar.contents.loading: Chargement....
+navbar.contents.setting: Paramètre
+navbar.contents.show_less.loading: 'Montrer moins...'
+navbar.contents.show_more.loading: 'Montre plus...'
+navbar.contents.tag_options: 'Options de balises'
+navbar.contents.tags: Mots clés
+navbar.contents.widgets: widgets
+navbar.items.actions.delete: Supprimer
+navbar.items.actions.down: Vers le bas
+navbar.items.actions.duplicate: Dupliquer
+no_background_image: 'Pas de fond'
+no_background_image.click_to_choose: 'Cliquez ici pour choisir une image comme arrière-plan de l'élément'
+no_file_selected: 'Aucun fichier n'est sélectionné.S'il vous plait sélectionner en un!'
+number_field: 'Champ de numéro'
+ok: D'accord
+other: 'Élément'
+padding: REMBOURRAGE
+page: Page
+panel: Panneau
+perform_checkout: 'Effectuer la caisse'
+perform_optin: 'Effectuer une opt-in'
+placeholder: Espace réservé
+pricing_table: 'Table de prix'
+progress_bar: 'Barre de progression'
+radio_field: 'Champ radio'
+rating_field: 'Champ radio'
+remove: 'Retirez l'élément avec succès!'
+sales: Ventes
+save: Sauvegarder
+scripts_loaded: 'Les scripts ont été chargés ...'
+section.form_elements: 'Former des éléments'
+section.general: General
+select: 'Sélectionner'
+select_element: 'Cliquez sur les éléments de contenu gauche pour modifier'
+select_option: '- Option de sélection--'
+selected_template: 'Modèle sélectionné'
+services_list: 'Liste des services'
+setting_text: 'Veuillez activer les options de synchronisation de la fin du serveur'
+setting_title: 'Définition de la synchronisation!'
+social: 'Social'
+solid: Solide
+starting: Départ...
+success_aplly: 'Appliquez avec succès le modèle sélectionné!'
+syn_with: 'Synchronisation avec'
+table: Tableau
+text: 'Texte'
+text.text.text: texte
+text_are_you: 'Vous souhaitez appliquer le modèle sélectionné pour la conception actuelle?'
+text_area: 'Zone de texte'
+text_back: 'Vous voulez sortir sans économiser?'
+text_color: 'Couleur de texte'
+text_field: 'Champ de texte'
+text_size: 'Taille du texte'
+text_style: 'Style de texte'
+textarea_field: 'Champ de TextArea'
+thank_you: 'Merci'
+theme: Thème
+unordered_list: 'Liste non ordonnée'
+update_content: 'Mettez à jour le contenu avec succès!'
+upload: Télécharger
+upload_success: 'Télécharger le modèle avec succès!'
+upload_video: 'Télécharger une video'
+user_profile: 'Profil de l'utilisateur'
+validation: Validation
+video: 'Vidéo'
+video_url: 'URL de la vidéo'
+well: Bien
+widget.abandoned_cart: Chariot
+widget.audio: l'audio
+widget.audio.upload_your_audio: 'Il n'y a pas de fichier audio!'
+widget.click_thumb_to_insert: 'Veuillez cliquer sur la vignette pour sélectionner l'image correspondante'
+widget.copy: Copie
+widget.duplicate: Dupliquer
+widget.e_commerce: Commerce électronique
+widget.product: Produit
+widget.product_list: 'Liste de produits'
+widget.remove: Retirer
+widget.rss: RSS
+widget.template_content: 'Contenu de modèle'
+widget.three_columns: '3 colonnes'
+widget.two_columns: '2 colonnes'
+widget_success: 'Ajoutez un widget avec succès!'
+wpanel.controls.action.title: ACTION
+wpanel.controls.actions.title: Action
+wpanel.controls.align.title: Alignement
+wpanel.controls.all_side.title: 'Tous les côtés'
+wpanel.controls.alternate.title: 'Texte alternatif'
+wpanel.controls.arrow_only.title: 'Arrow uniquement'
+wpanel.controls.auto_width.title: 'Largeur automatique'
+wpanel.controls.background_color.title: 'Couleur de l'arrière plan'
+wpanel.controls.border.title: Frontière
+wpanel.controls.border_radius.title: 'Rayon de frontière'
+wpanel.controls.bottom.title: Bas
+wpanel.controls.change_image.title: 'Changer l'image'
+wpanel.controls.copy_url.title: 'Copier le lien'
+wpanel.controls.dark.title: Sombre
+wpanel.controls.dashed.title: en pointillé
+wpanel.controls.des_html_control.title: 'je'
+wpanel.controls.des_label.title: 'Experts HTML uniquement'
+wpanel.controls.des_widget_label.title: 'L'utilisation de votre propre code peut affecter la façon dont le message est rendu.Assurez-vous d'utiliser HTML correct et réactif.'
+wpanel.controls.description.title: 'Configurez l'affichage réactif de cet élément.Parfois, il est utile de masquer un élément sur certains types d'appareils'
+wpanel.controls.dotted.title: dotted
+wpanel.controls.effect.title: 'Appliquer un effet et plus'
+wpanel.controls.hide_on.desktop: Bureau
+wpanel.controls.hide_on.mobile: Mobile
+wpanel.controls.hide_on.title: 'Se cacher'
+wpanel.controls.image_link.title: 'Lien d'image'
+wpanel.controls.image_name.title: 'Nom de l'image:'
+wpanel.controls.left.title: Gauche
+wpanel.controls.light.title: Lumière
+wpanel.controls.line_height.title: 'Hauteur de la ligne'
+wpanel.controls.link_file.title: 'Fichier de liaison'
+wpanel.controls.link_to.title: 'Lié à'
+wpanel.controls.loge_name.title: logo_courier.png
+wpanel.controls.more_option.title: 'Plus d'options'
+wpanel.controls.padding.title: Rembourrage
+wpanel.controls.play_icon.title: 'Jouer au type d'icône'
+wpanel.controls.play_icon_color.title: 'Jouer la couleur de l'icône'
+wpanel.controls.play_icon_size.title: 'Jouer la taille de l'icône'
+wpanel.controls.rectangle_outline.title: 'Aperçu du rectangle'
+wpanel.controls.rectangle_solid.title: 'Rectangle solide'
+wpanel.controls.right.title: Right
+wpanel.controls.round_outline.title: 'Contour'
+wpanel.controls.round_solid.title: 'Solide rond'
+wpanel.controls.solid.title: solide
+wpanel.controls.special_link.title: 'Liens spéciaux'
+wpanel.controls.square_outline.title: 'Plan carré'
+wpanel.controls.square_solid.title: 'Carré'
+wpanel.controls.text_color.title: 'Couleur de texte'
+wpanel.controls.top.title: Haut
+wpanel.controls.url.title: URL
+wpanel.controls.value.title: 50px
+wpanel.controls.value_1.title: '1'
+wpanel.controls.value_55.title: 55px
+wpanel.controls.value_60.title: 60px
+wpanel.controls.value_65.title: 65px
+wpanel.controls.value_70.title: 70px
+wpanel.controls.widget_label.title: 'Ajoutez un <a href="https://www.youtube.com" target="_blank"> youtube </a> ou <a href="https://vimeo.com" target="_blank"> Vimeo </ A> URL pour générer automatiquement une image d'aperçu.L'image sera liée à l'URL fournie.'
+wpanel.others.add.title: Ajouter
+wpanel.others.add_widget.title: 'Ajouter un widget'
+wpanel.others.background.title: Arrière-plan
+wpanel.others.base64.title: Base64
+wpanel.others.change_image.title: 'Changer l'image'
+wpanel.others.code.title: 'Modifier HTML'
+wpanel.others.delete.title: Supprimer
+wpanel.others.des_base64_image.title: 'Copiez et collez le contenu Base64 de votre image pour qu'il remplace celui actuel.Notez que votre image sera également stockée sur le serveur'
+wpanel.others.des_drag_image.title: 'Faites glisser vos fichiers ici ou cliquez dans ce domaine.'
+wpanel.others.des_template_toolbox.title: 'Commencez à faire votre magnifique e-mail ou votre conception de page de destination en choisissant un modèle et modifiez-le avec votre propre contenu'
+wpanel.others.des_upload_image.title: 'Sélectionnez une image dans votre appareil pour remplacer celle actuelle dans la conception.Vous pouvez également faire glisser et déposer votre image dans la zone de téléchargement ci-dessous'
+wpanel.others.des_upload_template.title: 'Ce modèle de description de travail représentatif des ventes couvre les principales qualifications, tâches et responsabilités d'un représentant des ventes et il est facile de personnaliser.'
+wpanel.others.des_upload_video.title: 'Choisissez un fichier vidéo sur votre PC local pour télécharger'
+wpanel.others.des_url_image.title: 'Définissez une URL d'image pour remplacer celle actuelle dans la conception.Notez que l'image sera réellement téléchargée et stockée sur votre serveur'
+wpanel.others.des_url_video.title: 'Entrez votre vidéo'
+wpanel.others.des_widget_name.title: 'Il s'agit d'une excellente fonctionnalité qui, par exemple, permet une expérience d'achat plus personnalisée ou la possibilité de cocher d'autres produits ou services.'
+wpanel.others.desktop.1280.title: '1280 x 1024'
+wpanel.others.desktop.1360.title: '1360 x 768'
+wpanel.others.desktop.1920.title: '1920 x 1080'
+wpanel.others.desktop.title: Bureau
+wpanel.others.duplicate.title: Dupliquer
+wpanel.others.file.title: Déposer
+wpanel.others.loading.title: Chargement...
+wpanel.others.mobile.320.title: '320 <Span> iPhone 5 </span>'
+wpanel.others.mobile.360.title: '360 <Span> Galaxy S10 </span>'
+wpanel.others.mobile.375.title: '375 <Span> iPhone X </span>'
+wpanel.others.mobile.414.title: '414 <Span> iPhone 8 <Up> + </sup> </span>'
+wpanel.others.mobile.title: Mobile
+wpanel.others.move.title: Se déplacer
+wpanel.others.preview_mode.title: 'Mode d'aperçu'
+wpanel.others.save.title: Sauvegarder
+wpanel.others.select_parent.title: 'Sélectionner le parent'
+wpanel.others.tablet.1024.title: '1024 <Span> iPad Pro </span>'
+wpanel.others.tablet.768.title: '768 <Span> iPad </span>'
+wpanel.others.tablet.title: Tablette
+wpanel.others.upload.title: Télécharger
+wpanel.others.url.title: URL
+wpanel.widgets.block.title: Bloc
+wpanel.widgets.blockqoute.description1: 'Lorem très carottes, développeur de premier cycle de tomate.L'ensemble entier était avant.'
+wpanel.widgets.blockqoute.description2: '- quelqu'un de célèbre dans'
+wpanel.widgets.blockqoute.description3: 'Titre de source'
+wpanel.widgets.blockqoute.title: Blocsquote
+wpanel.widgets.boxed_text.title: 'Texte en boîte'
+wpanel.widgets.browse.title: Parcourir
+wpanel.widgets.button: Bouton
+wpanel.widgets.button.cancel: Annuler
+wpanel.widgets.button.submit: Soumettre
+wpanel.widgets.button.title: Bouton
+wpanel.widgets.button_group.left: Gauche
+wpanel.widgets.button_group.middle: Milieu
+wpanel.widgets.button_group.right: Right
+wpanel.widgets.button_group.title: 'Groupe de boutons'
+wpanel.widgets.button_toolbar.description1: '1'
+wpanel.widgets.button_toolbar.description2: '2'
+wpanel.widgets.button_toolbar.description3: '3'
+wpanel.widgets.button_toolbar.description4: '4'
+wpanel.widgets.button_toolbar.description5: '5'
+wpanel.widgets.button_toolbar.description6: '6'
+wpanel.widgets.button_toolbar.description7: '7'
+wpanel.widgets.button_toolbar.description8: '8'
+wpanel.widgets.button_toolbar.title: 'Barre d'outils'
+wpanel.widgets.checkbox: Cocher
+wpanel.widgets.checkbox.description: 'Option 1'
+wpanel.widgets.checkbox.title: Cocher
+wpanel.widgets.container.title: Récipient
+wpanel.widgets.content_drag.title: 'Pas de contenu ici.Faire glisser nouveau de'
+wpanel.widgets.date: Date
+wpanel.widgets.definition_list.description1: 'DESCRIPTION LISTES'
+wpanel.widgets.definition_list.description2: 'Une liste de description est parfaite pour définir des termes.'
+wpanel.widgets.definition_list.description3: Eumod
+wpanel.widgets.definition_list.description4: 'Fabrication Ligula Gate, les performances du gaz ont toujours besoin d'une salade de haine ou d'un développeur de jupe.'
+wpanel.widgets.definition_list.description5: 'Malheureusement, ce développeur n'est pas ma passerelle enceinte à la peur chimique.'
+wpanel.widgets.definition_list.description6: 'Porte maleuada'
+wpanel.widgets.definition_list.description7: 'Même la porte de Salad Malesuada une grande performance douce.'
+wpanel.widgets.definition_list.description8: 'Felis Performance a toujours besoin de jupe'
+wpanel.widgets.definition_list.description9: 'Protéines cliniques, région et commodité en cours, sauce Mauris Nibh, comme la masse chaude, juste les carottes.'
+wpanel.widgets.definition_list.title: 'Liste de définition'
+wpanel.widgets.des_drop.title: 'Faire tomber une image'
+wpanel.widgets.des_footer.title: '<em> Copyright © * | Current_year | * * | Liste: Société | *, Tous droits réservés. </em> <br> * | Ifnot: Archive_Page | * * | Liste: Description | * <br> <br> <Strong> notre adresse postale est: </strong> <br> * | html: list_address_html | * * | fin: if | * <br> Vous voulez changer la façon dont vous recevez ces e-mails? <br> Vous pouvez <a unhref = "* | update_profile | *"> Mettez à jour vos préférences </a> ou <a href="*|UNSUB|***"> désabonnez-vous de cette liste </a>. <br> <br> * | Si: récompenses| * * | Html: récompenses | * * | fin: if | *'
+wpanel.widgets.des_html.title: 'je'
+wpanel.widgets.des_image.title: 'Sélectionnez l'image dans mon ordinateur'
+wpanel.widgets.des_image_block.title: 'Texte de légende d'entrée ici.Utilisez le bloc'
+wpanel.widgets.des_text.title: 'je'
+wpanel.widgets.des_video.title: 'Ajouter une URL vidéo'
+wpanel.widgets.div_container.title: 'Récipient Div'
+wpanel.widgets.divider.title: Diviseur
+wpanel.widgets.dropdown: Dérouler
+wpanel.widgets.facebook.title: Facebook
+wpanel.widgets.footer.title: Bas de page
+wpanel.widgets.form.description1: 'Nom sur la carte'
+wpanel.widgets.form.description2: 'Numéro de carte'
+wpanel.widgets.form.description3: 'adresse de facturation'
+wpanel.widgets.form.description4: CVC
+wpanel.widgets.form.description5: Expiration
+wpanel.widgets.form.description6: 'Payer "'
+wpanel.widgets.form.title: Formulaire
+wpanel.widgets.form_group.title: 'Groupe de formulaire'
+wpanel.widgets.header.title: 'En-tête de page'
+wpanel.widgets.heading.description1: Titre
+wpanel.widgets.heading.title: 'Titre'
+wpanel.widgets.hero_image.title: 'Image du héros'
+wpanel.widgets.html.title: Html
+wpanel.widgets.image.title: Image
+wpanel.widgets.image_grid.title: 'Grille d'image'
+wpanel.widgets.image_header.h1.title: 'Il'
+wpanel.widgets.image_header.h3.title: 'Bienvenue dans notre studio!'
+wpanel.widgets.image_header.tell.title: 'Dis m'en plus'
+wpanel.widgets.image_header.title: 'En-tête d'image'
+wpanel.widgets.input_field.title: 'Champ de saisie'
+wpanel.widgets.input_group.description: '@'
+wpanel.widgets.input_group.title: 'Groupe d'entrée'
+wpanel.widgets.instagram.title: Instagram
+wpanel.widgets.intro_block.title: Introduction
+wpanel.widgets.ip_address: 'Adresse IP'
+wpanel.widgets.jumbotron.des.title: 'Lorem très carottes, développeur de premier cycle de tomate.Le stress en tant que grande pièce d'identité a gradué le financement de la nutrition à la masse nutritionnelle.Fabrication et à moins que vous ne soyez en train de sortir de la pièce maximale ou de la région maximale du football.C'est stérilisé.Enquête sur les carottes entières sélectionnée.Soccer mais réservé Football Free Deducible Need.Maintenant le prix de la propagande du pays de la terre.'
+wpanel.widgets.jumbotron.learn_more.title: 'Apprendre encore plus'
+wpanel.widgets.jumbotron.title: Jumbotron
+wpanel.widgets.jumbotron.welcome.title: 'Bienvenue à l'architecte!'
+wpanel.widgets.link.description: 'Un lien hypertexte simple.'
+wpanel.widgets.link.title: Lien
+wpanel.widgets.linkedIn.title: Liendin
+wpanel.widgets.list_group.cras.title: 'Demain déteste juste'
+wpanel.widgets.list_group.dapibus.title: 'Protéines et antioxydants dans'
+wpanel.widgets.list_group.morbi.title: 'Rires de lion de football'
+wpanel.widgets.list_group.porta.title: 'Gate et Minneapolis et'
+wpanel.widgets.list_group.title: 'Groupe de listes'
+wpanel.widgets.list_group.vesti.title: 'Fabrication à Eros'
+wpanel.widgets.list_image.copy.des.title: 'Lorem Carrots, développeur adipisicing amélioré, mais je serai dans un iniquod et la douleur d'un bon moment.'
+wpanel.widgets.list_image.copy.title: Copywriter
+wpanel.widgets.list_image.design.des.title: 'Lorem Carrots, développeur adipisicing amélioré, mais je serai dans un iniquod et la douleur d'un bon moment.'
+wpanel.widgets.list_image.designer.title: Concepteur de sites Web
+wpanel.widgets.list_image.photo.des.title: 'Lorem Carrots, développeur adipisicing amélioré, mais je serai dans un iniquod et la douleur d'un bon moment.'
+wpanel.widgets.list_image.photo.title: Photographe
+wpanel.widgets.list_image.see.title: 'Voir œuvres »'
+wpanel.widgets.list_image.title: 'Image de liste'
+wpanel.widgets.marked_text.description: 'Texte marqué'
+wpanel.widgets.marked_text.title: 'Texte marqué'
+wpanel.widgets.media_object.des1.title: 'Demain carottes nibh libre dans la grossesse zéro.Pas de cartes ou plus de chocolat avant la commodité de Sollicitudin.Demain, la haine du chili, fabriquant en vulputate au moment de la pulsion laide.Sauce clinique maintenant et si vulputate écologique.Jusqu'à la jupe de prêt de football dans la gorge.'
+wpanel.widgets.media_object.des2.title: 'Demain carottes nibh libre dans la grossesse zéro.Pas de cartes ou plus de chocolat avant la commodité de Sollicitudin.Demain, la haine du chili, fabriquant en vulputate au moment de la pulsion laide.Sauce clinique maintenant et si vulputate écologique.Jusqu'à la jupe de prêt de football dans la gorge.'
+wpanel.widgets.media_object.des3.title: 'Demain carottes nibh libre dans la grossesse zéro.Pas de cartes ou plus de chocolat avant la commodité de Sollicitudin.Demain, la haine du chili, fabriquant en vulputate au moment de la pulsion laide.Sauce clinique maintenant et si vulputate écologique.Jusqu'à la jupe de prêt de football dans la gorge.'
+wpanel.widgets.media_object.heading.title: 'Média Heading'
+wpanel.widgets.media_object.title: 'Objet multimédia'
+wpanel.widgets.meterial.des.title: 'Lorem très carottes, développeur d'adipising aux tomates.Corrompue et, il est tenu de rejeter le corps mais d'expliquer qu'aucune douleur n'a besoin de formation de douleur en poursuivant l'architecte de la douleur pour ouvrir le devoir de la résolution de la douleur!'
+wpanel.widgets.meterial.link.title: Lien
+wpanel.widgets.meterial.title: 'Boîte de matériel'
+wpanel.widgets.meterial.title.title: Titre
+wpanel.widgets.multiselect: Sélection multiple
+wpanel.widgets.navbar.about.title: 'À propos de nous'
+wpanel.widgets.navbar.architect.title: Architecte
+wpanel.widgets.navbar.contact.title: Contact
+wpanel.widgets.navbar.portfolio.title: Portefeuille
+wpanel.widgets.navbar.pricing.title: Prix
+wpanel.widgets.navbar.team.title: Équipe
+wpanel.widgets.navbar.title: Barre navale
+wpanel.widgets.number: Nombre
+wpanel.widgets.one_col_block.title: '1 colonne'
+wpanel.widgets.or.title: ou
+wpanel.widgets.page_header.title: 'En-tête de page'
+wpanel.widgets.panel.body.title: 'Contenu de panel'
+wpanel.widgets.panel.footer.title: 'Pied de page'
+wpanel.widgets.panel.heading.title: 'En-tête de panneau sans titre'
+wpanel.widgets.panel.title: Panneau
+wpanel.widgets.paragraph.description: 'Lorem très carottes, développeur de premier cycle de tomate, mais je serai dans un iniquod et la douleur d'un bon moment.Afin de faire un pardon étrange, l'une des exercices de Employulsco Employullrramento, mais d'être aliquip de la commodité de la conséquence.Les devoirs ou un irre de douleur dans le souhait délibéré critiqué sont une paire de copeaux douloureux, pas plus.Excepteur, ils sont des aveugles désireux de non-procédure, ils sont dans la faute que les services abandonnent l'âme qui est des collations.'
+wpanel.widgets.paragraph.title: Paragraphe
+wpanel.widgets.pricing_table.100gb.title: 'Stockage de 100 Go'
+wpanel.widgets.pricing_table.10gb.title: '10 Go de stockage'
+wpanel.widgets.pricing_table.50gb.title: 'Rangement de 50 Go'
+wpanel.widgets.pricing_table.access.title: 'Accès aux tutoriels'
+wpanel.widgets.pricing_table.advanced.title: Advanced
+wpanel.widgets.pricing_table.all_theme.title: 'Tous les thèmes'
+wpanel.widgets.pricing_table.auto.title: 'Sauvegarde automatique'
+wpanel.widgets.pricing_table.basic.title: Basique
+wpanel.widgets.pricing_table.extended.title: 'Sécurité prolongée'
+wpanel.widgets.pricing_table.intermediate.title: Intermédiaire
+wpanel.widgets.pricing_table.signup.title: 's'inscrire'
+wpanel.widgets.pricing_table.title: 'Table de prix'
+wpanel.widgets.progress_bar.title: 'Barre de progression'
+wpanel.widgets.radio: Radio
+wpanel.widgets.rating: Notation
+wpanel.widgets.select.description1: '1'
+wpanel.widgets.select.description2: '2'
+wpanel.widgets.select.description3: '3'
+wpanel.widgets.select.description4: '4'
+wpanel.widgets.select.description5: '5'
+wpanel.widgets.select.title: Sélectionner
+wpanel.widgets.services_list.des1.title: 'Lorem très carottes, développeur de premier cycle de tomate.Le dernier volleyball s'il vous plaît non.Chat ullamcorper quiconque à moins que vous n'en obtenez.Chacun devient occasionnellement de la propagande.'
+wpanel.widgets.services_list.des2.title: 'Lorem très carottes, développeur de premier cycle de tomate.Le dernier volleyball s'il vous plaît non.Chat ullamcorper quiconque à moins que vous n'en obtenez.Chacun devient occasionnellement de la propagande.'
+wpanel.widgets.services_list.des3.title: 'Lorem très carottes, développeur de premier cycle de tomate.Le dernier volleyball s'il vous plaît non.Chat ullamcorper quiconque à moins que vous n'en obtenez.Chacun devient occasionnellement de la propagande.'
+wpanel.widgets.services_list.des4.title: 'Lorem très carottes, développeur de premier cycle de tomate.Le dernier volleyball s'il vous plaît non.Chat ullamcorper quiconque à moins que vous n'en obtenez.Chacun devient occasionnellement de la propagande.'
+wpanel.widgets.services_list.design.title: 'Conception et code'
+wpanel.widgets.services_list.generating.title: 'Générer des idées'
+wpanel.widgets.services_list.launching.title: 'Lancement et surveillance'
+wpanel.widgets.services_list.prototype.title: 'Modèle prototype'
+wpanel.widgets.services_list.title: 'Liste des services'
+wpanel.widgets.social.title: Social
+wpanel.widgets.social_block.title: 'Liens sociaux'
+wpanel.widgets.submit_button: 'Bouton de soumission'
+wpanel.widgets.table.bird.title: 'l'oiseau'
+wpanel.widgets.table.fat.title: '@fat'
+wpanel.widgets.table.first_name.title: 'Prénom'
+wpanel.widgets.table.hashtag.title: '#'
+wpanel.widgets.table.jacob.title: Jacob
+wpanel.widgets.table.larry.title: Larry
+wpanel.widgets.table.last_name.title: 'Nom de famille'
+wpanel.widgets.table.mark.title: Marque
+wpanel.widgets.table.modo.title: '@mdo'
+wpanel.widgets.table.one.title: '1'
+wpanel.widgets.table.other.title: Colonne
+wpanel.widgets.table.otto.title: Otto
+wpanel.widgets.table.thornton.title: Thornton
+wpanel.widgets.table.three.title: '3'
+wpanel.widgets.table.title: 'Tableau (3 colonnes)'
+wpanel.widgets.table.twitter.title: '@Twitter'
+wpanel.widgets.table.two.title: '2'
+wpanel.widgets.table.username.title: Nom d'utilisateur
+wpanel.widgets.table4.title: 'Tableau (4 cols)'
+wpanel.widgets.table5.title: 'Tableau (5 colonnes)'
+wpanel.widgets.text: Texte
+wpanel.widgets.text.title: Texte
+wpanel.widgets.text_area.title: 'Zone de texte'
+wpanel.widgets.textarea: Textarea
+wpanel.widgets.three_col_block.title: '3 colonnes'
+wpanel.widgets.title.title: 'Faites glisser vers votre vue de conception'
+wpanel.widgets.twitter.title: Twitter
+wpanel.widgets.two_article_block.title: Des articles
+wpanel.widgets.two_article_rtl_block.title: 'Articles - RTL'
+wpanel.widgets.two_col_block.title: '2 colonnes'
+wpanel.widgets.unordered_list.description1: 'Liste de l'article n ° 1'
+wpanel.widgets.unordered_list.description2: 'Liste de l'article n ° 2'
+wpanel.widgets.unordered_list.description3: 'Liste de l'article n ° 3'
+wpanel.widgets.unordered_list.title: 'Liste non ordonnée'
+wpanel.widgets.user_profile.about.title: 'À propos de:'
+wpanel.widgets.user_profile.bootstrap3.title: bootstrap3
+wpanel.widgets.user_profile.css3.title: CSS3
+wpanel.widgets.user_profile.follow.title: Suivre
+wpanel.widgets.user_profile.followers.title: Followers
+wpanel.widgets.user_profile.following.title: Following
+wpanel.widgets.user_profile.hobbies.title: 'Loisirs:'
+wpanel.widgets.user_profile.html5.title: Tu seras sale
+wpanel.widgets.user_profile.interge1.title: '20, à droite'
+wpanel.widgets.user_profile.interge2.title: '245'
+wpanel.widgets.user_profile.interge3.title: '43'
+wpanel.widgets.user_profile.jquery.title: jquery
+wpanel.widgets.user_profile.name.title: 'Nicole Pearson'
+wpanel.widgets.user_profile.options.title: Options
+wpanel.widgets.user_profile.ratings.title: Notes
+wpanel.widgets.user_profile.read.title: 'Lisez, avec des amis, écoutez de la musique, dessinez et apprenez de nouvelles choses.'
+wpanel.widgets.user_profile.skills.title: 'Compétences:'
+wpanel.widgets.user_profile.snippets.title: Extraits
+wpanel.widgets.user_profile.title: 'Profil de l'utilisateur'
+wpanel.widgets.user_profile.viewprofile.title: 'Voir le profil'
+wpanel.widgets.user_profile.webdesign.title: 'Designer Web / UI.'
+wpanel.widgets.video.title: Vidéo
+wpanel.widgets.well.look.title: 'Regarde, je'
+wpanel.widgets.well.title: Bien
+youtube: Youtube
+youtube.alignment: Alignement
+youtube.center: Centre
+youtube.change_video: 'Changer de vidéo'
+youtube.default: Défaut
+youtube.enter_youtube_url: "Entrez ici votre URL YouTube.
+youtube.entered_url_not_valid: 'L'URL YouTube entrée n'est pas valide'
+youtube.height: Hauteur
+youtube.left: Gauche
+youtube.please_enter_url: 'Veuillez saisir l'URL YouTube'
+youtube.right: Right
+youtube.save: Sauvegarder
+youtube.url: 'URL YouTube'
+youtube.width: Largeur
+youtube_video: 'Vidéo Youtube'
+youtube_video.add_button: 'Cliquez ici pour ajouter une vidéo YouTube'
